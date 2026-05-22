@@ -5,7 +5,7 @@
 Add this to your Cargo.toml:
 ```
 [dependencies]
-svetofor = "0.1.0"
+svetofor = "0.1.1"
 ```
 
 ### 🐝 Getting started
