@@ -1,0 +1,12 @@
+[package]
+name = "svetofor"
+version = "0.1.0"
+edition = "2024"
+description = "A simple semaphore with RAII guards based on `parking_lot`"
+license = "MIT"
+repository = "https://github.com/vyacheslavhere/svetofor"
+readme = "README.md"
+authors = ["vyacheslavhere"]
+
+[dependencies]
+parking_lot = "0.12.5"
