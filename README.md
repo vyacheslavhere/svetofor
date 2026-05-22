@@ -9,7 +9,7 @@ svetofor = "0.1.0"
 ```
 
 ### 🐝 Getting started
-```
+```rust
 use svetofor::Semaphore;
 
 fn main() {
